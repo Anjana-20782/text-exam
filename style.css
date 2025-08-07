@@ -45,6 +45,7 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    padding-left: 80px;
 }
 
 .firsttwo .item1{
@@ -177,7 +178,7 @@ position: relative;
 .second3 img{
 
     height: 450px;
-    padding-left: 124px;
+    padding-left: 139px;
     padding-top: 50px;
   
     
