@@ -6,7 +6,7 @@ This is a frontend-only clone of the Swiggy food delivery platform. It showcases
 ## 🔥 Features
 
 -Static Swiggy-like homepage
--Responsive layout using Flexbox/Grid
+-Responsive layout using Flexbox
 -Restaurant listings UI
 -Food item cards
 -Navigation bar and footer
