@@ -953,9 +953,56 @@ background-color: white;
 
      width: 20%;
     height: 50vh;
-    background-color: blue;
+    /* background-color: blue; */
 }
 
+.eight4 .footer3{
+
+      font-size: 26px;
+    height: 40px;
+    padding-top: 40px;
+}
+
+.eight4 .foot3{
+
+    color: rgb(120, 116, 116);
+    font-size: 19px;
+    line-height: 35px;
+}
+
+.eight4 select{
+
+    width: 130px;
+    height: 40px;
+    border: 1px solid grey;
+    margin-top: 20px;
+    border-radius: 10px;
+     background-color:rgb(228, 226, 229);
+     color:  rgb(120, 116, 116);
+     font-size: 16px;
+}
+
+.eight5{
+
+    width: 20%;
+    height: 50vh;
+    /* background-color: blue; */
+
+}
+
+.eight5 .footer4{
+
+      font-size: 26px;
+    height: 40px;
+    padding-top: 40px;
+}
+
+.eight5 .foot4{
+
+    color: rgb(120, 116, 116);
+    font-size: 19px;
+    line-height: 35px;
+}
 
 
 
