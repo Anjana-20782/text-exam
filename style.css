@@ -127,7 +127,7 @@ display: flex;
     width: 690px;
     height: 160px;
     font-size: 44px;
-    padding-left: 250px;
+    padding-left: 430px;
     font-weight: bolder;
    
 }
@@ -141,7 +141,7 @@ display: flex;
     color: grey;
     font-size: 16px;
     padding-left: 20px;
-    margin-left: 200px;
+    margin-left: 300px;
 }
 
 .search .input1{
@@ -178,9 +178,11 @@ position: relative;
 .second3 img{
 
     height: 450px;
-    padding-left: 139px;
-    padding-top: 50px;
-  
+    /* padding-left: 139px;
+    padding-top: 50px; */
+  position: absolute;
+  right: 0;
+
     
 }
 
@@ -188,7 +190,7 @@ position: relative;
 
     width:70% ;
     height: 20vh;
-    
+    padding-left: 150px;
     display: flex;
 }
 
@@ -237,6 +239,7 @@ position: relative;
 
     width: 100%;
     height: 20vh;
+    margin-left: 160px;
    
     
    
@@ -262,6 +265,7 @@ height: 160px;
 
     width: 100%;
     height: 20vh;
+      margin-left: 160px;
    
 
 }
@@ -284,9 +288,9 @@ height: 160px;
 
 .four1{
 
-    width: 80%;
+    width: 50%;
     height: 60px;
-    margin-left: 100px;
+    margin-left: 300px;
     /* background-color: blue; */
   
 
@@ -310,7 +314,7 @@ height: 160px;
 
 .four2 .fourtwo{
 
-    width: 90%;
+    width: 70%;
     height: 28vh;
     /* background-color: blue; */
     display: flex;
@@ -413,10 +417,11 @@ height: 160px;
 
 .fiveone{
 
-    width: 100%;
+    width: 60%;
     height: 9vh;
     /* background-color: blue; */
     margin-top: 90px;
+    margin-left: 180px;
 }
 
 .fiveone h1{
@@ -431,9 +436,10 @@ height: 160px;
 
 .five2{
 
-    width: 100%;
+    width: 80%;
     height: 50vh;
     /* background-color: blue; */
+    margin-left: 170px;
     
 }
 
@@ -1032,7 +1038,7 @@ background-color: white;
     padding-top: 40px;
     font-size: 27px;
     color: rgb(53, 49, 49);
-    padding-left: 140px;
+    padding-left: 340px;
     font-style: normal;
     font-family: arial;
 }
